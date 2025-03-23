@@ -1,4 +1,7 @@
-**Basic HTML Structure**
+**HTML**
+
+
+Basic Structure
 
 ```
 <!DOCTYPE html> // Defines the document as HTML5.
