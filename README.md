@@ -47,4 +47,95 @@ anchor tag
     </tr>
 </table>
 ```
+**CSS**
+
+**Basic CSS Syntax**
+```css
+selector {
+    property: value;
+}
+```
+
+**Selectors**
+```css
+/* Select by element */
+p {
+    color: blue;
+}
+
+/* Select by class */
+.my-class {
+    font-size: 16px;
+}
+
+/* Select by ID */
+#my-id {
+    background-color: yellow;
+}
+```
+
+**Box Model**
+```css
+div {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20px;
+}
+```
+
+**Flexbox**
+```css
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+```
+
+**Grid Layout**
+```css
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+```
+
+**Positioning**
+```css
+.absolute-box {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.fixed-box {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+```
+**Transitions & Animations**
+```css
+div {
+    transition: all 0.5s ease;
+}
+
+div:hover {
+    transform: scale(1.1);
+}
+```
+
+**Responsive Design**
+```css
+@media (max-width: 600px) {
+    body {
+        background-color: lightgray;
+    }
+}
+```
+
 
