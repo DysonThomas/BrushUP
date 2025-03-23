@@ -1,7 +1,7 @@
 **Basic HTML Structure **
 
-**<!DOCTYPE html> // Defines the document as HTML5.
-<html lang="en">
+//<!DOCTYPE html> // Defines the document as HTML5.
+//<html lang="en">
 <head> 
     <title>My HTML Page</title>
 </head>
