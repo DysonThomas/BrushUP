@@ -1,6 +1,6 @@
 **Basic HTML Structure **
 
-<!DOCTYPE html> // Defines the document as HTML5.
+/*<!DOCTYPE html> // Defines the document as HTML5.
 <html lang="en">
 <head> 
     <title>My HTML Page</title>
@@ -9,7 +9,7 @@
     <h1>Welcome to HTML</h1>
     <p>This is a basic HTML page.</p>
 </body>
-</html>
+</html>*/
 
 Common Tags h1-h6,p,a,img,ul-li,ol,table,span
 
